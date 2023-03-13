@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">Cafe App</string>
+    <string name="nama_cafe">Nama Cafe</string>
+    <string name="alamat_cafe">Alamat Cafe</string>
+    <string name="deskripsi_cafe">Deskripsi Cafe</string>
+    <string name="about">About</string>
+    <string name="share">Share</string>
+    <string name="nama_dev">Daniel Indra Sasongko</string>
+    <string name="email_dev">devs@devs.com</string>
+    <string name="menu">Menu</string>
+    <string name="close">close</string>
+
+    <string-array name="cafe_nama_datas">
+        <item>Gartenhaus</item>
+        <item>Pawvilion Dog Café</item>
+        <item>Kara Coffee Culture</item>
+        <item>Retrorika</item>
+        <item>BataPuti Coffeehouse</item>
+        <item>Seoulscent</item>
+        <item>Loteng</item>
+        <item>Cafe Bukit Delight</item>
+        <item>Golden Heritage Koffie</item>
+        <item>Habbit Eatery</item>
+    </string-array>
+
+    <string-array name="cafe_alamat_datas">
+        <item>Jl. Kenanga Indah No. 1</item>
+        <item> Jl. Kesemek No.4</item>
+        <item>Jl. Cengger Ayam I</item>
+        <item>Jl. Dewi Mutmainah No. 3</item>
+        <item>Jl. Araya Megah No. 9</item>
+        <item>Jl. Bunga Mondokaki No.30</item>
+        <item>Jl. Bandung No.5b</item>
+        <item>Jalan Raya Joyoagung No.1</item>
+        <item>Jalan Raya Tidar No.36</item>
+        <item>Jalan Lawu No. 6</item>
+    </string-array>
+
+    <string-array name="cafe_deskripsi_datas">
+        <item>Ingin merasakan nuansa hutan tropis yang rindang? Datang kesini! Usahakan untuk melakukan reservasi terlebih dahulu ya, karena cafe sering full saking ramainya. Makanan yang disediakan di cafe ini juga beragam dan cukup terjangkau harganya. Rute perjalanan yang dapat Kawan Makan tempuh jika dari pusat kota adalah langsung saja arahkan kendaraan menuju Jalan Besar Ijen.</item>
+        <item>Bukan cuma menikmati aneka makanan lezat saja. Di cafe ini, kamu juga bisa bermain dengan anjing-anjing lucu yang menggemaskan. Cocok banget deh buat pecinta anjing! Tidak hanya itu, makanan yang disajikan di cafe ini pun sangatlah beragam dan unik, karena bertemakan anjing.</item>
+        <item>Cafe ini menyediakan co-working space bagi para pengunjung, jadi cocok banget buat kamu yang ingin kerja sambil ngafe. Vibes yang homey banget, bener-bener bikin kamu betah deh. Kuliner yang ditawarkan juga cukup beragam dan sangat terjangkau loh.</item>
+        <item>Cafe ini cukup unik, karena hampir setiap sudutnya menggunakan bahan-bahan daur ulang. Vibes yang retro dan vintage pada cafe ini menjadi daya tarik tersendiri. Tidak hanya itu, cafe ini sangatlah eco-friendly dengan penerapan sebagai berikut, tisu (diganti serbet), sedotan plastik (diganti sedotan logam), botol plastik (diganti botol kaca)</item>
+        <item>Cafe ini menawarkan suasana pemandangan alam yang indah dan menyejukkan. Untuk kamu yang datang dengan pasangan, tempat ini akan terasa jauh lebih spesial karena sisi romantis yang ditawarkan. Banyak spot menarik yang bisa digunakan untuk berfoto bersama pasanganmu.</item>
+        <item>Cafe yang satu ini cocok banget buat pecinta K-Drama. Disini kamu bisa banget menikmati aneka kuliner khas Korea. Dari mulai Ramyun, Raobokki, hingga Buldak bisa kamu nikmati sampai kenyang. Desain cafe ini bisa dibilang unyu banget. , karena didominasi oleh warna pink. Cocok banget deh pokoknya buat pecinta selfie!</item>
+        <item>Cafe dengan nuansa jepang ini, menawarkan suasana yang berbeda antara lantai 1 dengan lantai 2 nya. Kalau kamu berencana untuk makan bareng keluarga, maka kamu bisa pergi ke lantai 1. Namun, kalau kamu berencana untuk have fun dengan teman, maka bar di lantai 2 akan jadi pilihan yang tepat.</item>
+        <item>Di cafe ini kamu bisa menikmati perpaduan apik pemandangan antara perkebunan, pegunungan dan perkampungan penduduk di salah satu sudut Kota Malang.Dibuka mulai sore hari, cafe ini menjadikan pemandangan Malang di malam hari sebagai andalan menarik pengunjung.</item>
+        <item>Cafe dengan konsep industrial ini memiliki keunikan dan daya tarik tersendiri pada desain bangunannya. Tidak hanya itu, cafe ini juga memanggang kopi secara slow roasted setiap harinya, sehingga pengunjung dipastikan selalu mendapatkan kopi yang “fresh from the oven”.</item>
+        <item>Mau duduk santai sambil merendam kaki di kolam air? Bisa banget! Bukan itu saja, ada juga ruangan dengan tema vintage. Makanan yang ditawarkan juga sangat beragam, dan tentu saja terjangkau. Selain instagenic, HABBIT Eatery juga menawarkan aneka menu enak dan menggugah selera.</item>
+    </string-array>
+
+    <string-array name="cafe_gambar_datas">
+        <item>https://cdn2.tstatic.net/tribunnewswiki/foto/bank/images/Gartenhaus-Malang-Jawa-Timur-77777777777773.jpg</item>
+        <item>https://cdn.idntimes.com/content-images/community/2018/06/bb954f76eb2325915ed487c904e1a009_600x400.jpg</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipOCs4yz97YdFbpotfdrV_1Xlsgd4tuAL9e6Ppmk=w768-h768-n-o-v1</item>
+        <item>https://www.malangculinary.com/upload/img_1600599308.jpg</item>
+        <item>https://www.malangculinary.com/upload/img_15928704961.jpg</item>
+        <item>https://dev.ibisnis.com/images/images/5f448dc4e3db4.webp</item>
+        <item>https://www.malang-guidance.com/wp-content/uploads/2020/06/Loteng-Malang-Menu.jpg</item>
+        <item>https://liburanyuk.co.id/wp-content/uploads/2021/05/129340479_377540653534077_3128848250633565583_n-1024x683.jpg</item>
+        <item>https://www.malangculinary.com/upload/img_1522650713.jpg</item>
+        <item>https://travelingyuk.com/kontributor/upload/201811/_DSC60991.JPG</item>
+    </string-array>
+
+    <string-array name="cafe_menu_datas">
+        <item>https://3.bp.blogspot.com/-y4OEvMINZ7M/W93VYiLNExI/AAAAAAAAVRI/TdkcjohsCIUUppgOLXRI1EdvrOf0WRanQCLcBGAs/s1600/IMG-20181031-WA0002.jpg</item>
+        <item>https://media-cdn.yummyadvisor.com/store/8319ea45-50b5-46e4-8ea5-4215d9768861.jpg</item>
+        <item>https://makanlagi.com/wp-content/uploads/2020/12/and-coffee-space-cafe-unik-baru-di-malang-30.jpg</item>
+        <item>https://www.akulily.com/wp-content/uploads/2020/12/retrorika-25.jpg</item>
+        <item>https://www.datawisata.com/wp-content/uploads/2018/04/harga-menu-bataputi.jpg</item>
+        <item>https://media-cdn.tripadvisor.com/media/photo-p/1b/17/6e/cc/breakfast-menu.jpg</item>
+        <item>https://media-cdn.yummyadvisor.com/store/2b8dab5d-e348-4019-b5a9-362afbff93f5.jpg</item>
+        <item>https://media-cdn.tripadvisor.com/media/photo-s/15/fa/35/17/img20190105193128-largejpg.jpg</item>
+        <item>https://www.duniazie.com/wp-content/uploads/2017/12/IMG_20171210_193111-768x1024.jpg</item>
+        <item>https://www.akulily.com/wp-content/uploads/2018/08/hab-1.jpg</item>
+    </string-array>
+</resources>
